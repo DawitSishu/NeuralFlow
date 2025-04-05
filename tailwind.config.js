@@ -76,3 +76,4 @@ module.exports = {
 }
 
 
+// Configure Tailwind CSS with custom theme - Mon Jul 21 17:57:09 EAT 2025
