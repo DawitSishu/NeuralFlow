@@ -23,3 +23,4 @@ const Input = React.forwardRef<HTMLInputElement, InputProps>(
 Input.displayName = "Input"
 
 export { Input }
+// Add input validation styles - Mon Jul 21 17:57:09 EAT 2025
