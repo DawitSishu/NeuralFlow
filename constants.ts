@@ -368,3 +368,4 @@ export const socials = [
     url: "#",
   },
 ];
+// Add application constants - Mon Jul 21 17:57:09 EAT 2025
