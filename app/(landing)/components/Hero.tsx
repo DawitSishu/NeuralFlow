@@ -115,3 +115,4 @@ const Hero = () => {
 };
 
 export default Hero;
+// Add hero animations and interactions - Mon Jul 21 17:57:09 EAT 2025
