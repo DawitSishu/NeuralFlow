@@ -53,3 +53,4 @@ export async function POST(
     return new NextResponse("Internal Error", { status: 500 });
   }
 };
+// Add conversation API endpoint - Mon Jul 21 17:57:09 EAT 2025
