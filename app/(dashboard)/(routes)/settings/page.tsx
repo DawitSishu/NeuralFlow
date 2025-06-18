@@ -28,3 +28,4 @@ const SettingsPage = async () => {
  
 export default SettingsPage;
 
+// Create settings page - Mon Jul 21 17:57:09 EAT 2025
