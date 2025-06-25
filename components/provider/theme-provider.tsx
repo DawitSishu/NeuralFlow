@@ -7,3 +7,4 @@ import { type ThemeProviderProps } from "next-themes/dist/types"
 export function ThemeProvider({ children, ...props }: ThemeProviderProps) {
   return <NextThemesProvider {...props}>{children}</NextThemesProvider>
 }
+// Add theme management - Mon Jul 21 17:57:10 EAT 2025
