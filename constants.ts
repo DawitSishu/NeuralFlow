@@ -369,3 +369,4 @@ export const socials = [
   },
 ];
 // Add application constants - Mon Jul 21 17:57:09 EAT 2025
+// Optimize application constants - Mon Jul 21 17:57:10 EAT 2025
