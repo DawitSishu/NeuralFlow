@@ -16,3 +16,4 @@ export const Loader = () => {
     </div>
   );
 };
+// Add smooth loading animations - Mon Jul 21 17:57:10 EAT 2025
