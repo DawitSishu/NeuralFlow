@@ -7,4 +7,3 @@ export const BotAvatar = () => {
     </Avatar>
   );
 };
-// Improve bot avatar component - Mon Jul 21 17:57:10 EAT 2025

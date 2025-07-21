@@ -153,4 +153,3 @@ export {
   CommandShortcut,
   CommandSeparator,
 }
-// Enhance command palette - Mon Jul 21 17:57:10 EAT 2025

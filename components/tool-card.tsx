@@ -52,4 +52,3 @@ export const ToolCard = ({
     </Card>
   );
 };
-// Optimize tool card component - Mon Jul 21 17:57:10 EAT 2025

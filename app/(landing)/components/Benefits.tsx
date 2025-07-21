@@ -71,4 +71,3 @@ const Benefits = () => {
 };
 
 export default Benefits;
-// Implement benefits showcase - Mon Jul 21 17:57:09 EAT 2025

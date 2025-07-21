@@ -18,4 +18,4 @@ const Navbar = async () => {
    );
 }
  
-export default Navbar;// Update navigation bar - Mon Jul 21 17:57:09 EAT 2025
+export default Navbar;

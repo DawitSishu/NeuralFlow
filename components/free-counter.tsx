@@ -48,4 +48,4 @@ export const FreeCounter = ({
       </Card>
     </div>
   )
-}// Add usage counter - Mon Jul 21 17:57:09 EAT 2025
+}

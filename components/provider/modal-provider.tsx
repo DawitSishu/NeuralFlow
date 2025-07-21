@@ -21,4 +21,3 @@ export const ModalProvider = () => {
     </>
   );
 };
-// Improve modal handling - Mon Jul 21 17:57:10 EAT 2025

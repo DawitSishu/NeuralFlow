@@ -88,4 +88,3 @@ const Collaboration = () => {
 };
 
 export default Collaboration;
-// Add collaboration features - Mon Jul 21 17:57:09 EAT 2025

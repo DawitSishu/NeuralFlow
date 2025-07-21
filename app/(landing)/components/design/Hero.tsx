@@ -102,4 +102,3 @@ const BackgroundCircles: FC<BackgroundCirclesProps> = ({ parallaxRef }) => {
 };
 
 export default BackgroundCircles;
-// Enhance hero design elements - Mon Jul 21 17:57:09 EAT 2025

@@ -16,4 +16,3 @@ export const Gradient = () => {
     </div>
   );
 };
-// Style roadmap section - Mon Jul 21 17:57:10 EAT 2025

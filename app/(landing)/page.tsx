@@ -29,4 +29,3 @@ const LandingPage = () => {
 };
 
 export default LandingPage;
-// Optimize landing page performance - Mon Jul 21 17:57:09 EAT 2025

@@ -23,4 +23,3 @@ model UserSubscription {
   stripePriceId          String?
   stripeCurrentPeriodEnd DateTime?
 }
-// Update database schema - Mon Jul 21 17:57:09 EAT 2025

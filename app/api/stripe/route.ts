@@ -65,4 +65,3 @@ export async function GET() {
     return new NextResponse("Internal Error", { status: 500 });
   }
 };
-// Integrate Stripe payment processing - Mon Jul 21 17:57:09 EAT 2025

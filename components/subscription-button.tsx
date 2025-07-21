@@ -35,4 +35,3 @@ export const SubscriptionButton = ({
     </Button>
   )
 };
-// Add subscription button - Mon Jul 21 17:57:09 EAT 2025

@@ -197,4 +197,3 @@ const PhotoPage = () => {
 }
  
 export default PhotoPage;
-// Implement image generation UI - Mon Jul 21 17:57:09 EAT 2025

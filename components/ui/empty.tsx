@@ -19,4 +19,3 @@ export const Empty = ({
     </div>
   );
 };
-// Create empty state components - Mon Jul 21 17:57:10 EAT 2025

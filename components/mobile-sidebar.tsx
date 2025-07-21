@@ -37,4 +37,3 @@ export const MobileSidebar = ({
     </Sheet>
   );
 };
-// Improve mobile navigation - Mon Jul 21 17:57:09 EAT 2025

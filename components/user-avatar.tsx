@@ -15,4 +15,3 @@ export const UserAvatar = () => {
     </Avatar>
   );
 };
-// Enhance user avatar display - Mon Jul 21 17:57:10 EAT 2025

@@ -91,4 +91,3 @@ const Header = () => {
 };
 
 export default Header;
-// Enhance header navigation - Mon Jul 21 17:57:10 EAT 2025

@@ -10,4 +10,4 @@ const AuthLayout = ({
   );
 }
  
-export default AuthLayout;// Improve auth layout styling - Mon Jul 21 17:57:09 EAT 2025
+export default AuthLayout;
