@@ -37,6 +37,7 @@
     "react-markdown": "^8.0.7",
     "replicate": "^0.12.3",
     "scroll-lock": "^2.1.5",
+    "sharp": "^0.34.3",
     "stripe": "^12.18.0",
     "tailwind-merge": "^3.3.1",
     "tailwindcss-animate": "^1.0.6",
@@ -59,4 +60,3 @@
     "typescript": "^5.3.3"
   }
 }
-
