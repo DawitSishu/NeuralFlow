@@ -33,3 +33,4 @@ export const checkSubscription = async () => {
 
   return !!isValid;
 };
+// Improve subscription management - Mon Jul 21 17:57:10 EAT 2025
